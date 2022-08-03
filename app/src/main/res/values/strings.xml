@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">MapboxSetup</string>
-    <string name="mapbox_access_token">PUT YOUR OWN ACCESS TOKEN</string>
+    <string name="mapbox_access_token"></string>
 </resources>
